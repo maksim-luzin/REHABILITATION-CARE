@@ -16,7 +16,7 @@ body {
 }
 
 .main {
-  background-image: url('../public/main-screen.png');
+  background-image: url('../public/main-screen.webp');
   background-repeat: no-repeat;
   background-position: right bottom;
   background-color: #e8e5d2;
@@ -145,7 +145,7 @@ body {
   border-top-right-radius: 0.625rem;
   border-width: 2px;
   border-bottom-width: 0px;
-  border-color: #F5F1ED;
+  border-color: #f1caa4;
   border-style: solid;
   width: 14rem;
 
